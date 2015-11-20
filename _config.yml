@@ -1,7 +1,3 @@
-# Gems
-gems:
-  - jekyll-archives
-
 # Site settings
 title: Nicolás Siplis
 email: nicolas.siplis@gmail.com
@@ -12,16 +8,6 @@ twitter_username: nicolas_siplis
 github_username: nicolas-siplis
 facebook_username:
 reddit_username: nicolas-siplis
-
-jekyll-archives:
-  enabled: all
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 
 # Build settings
 markdown: kramdown
