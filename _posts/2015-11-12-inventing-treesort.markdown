@@ -8,7 +8,7 @@ author:     "Nicolás Siplis"
 
 Here’s some context for those of you who don’t know me, and since I’m a 19 year old argentine student that probably includes pretty much every single person reading this post. I’m in my first year of computer engineering, loving it so far and can’t wait for the next one.
 
-We started looking at recursion and tree-like structures this semester, and as you probably know one of the most simple structures to study is the binary tree. Not gonna get into specifics, just remember that a balanced binary tree allows us to insert and search for a node in O(log n) time.
+We started looking at recursion and tree-like structures this semester, and as you probably know one of the most simple structures to study is the binary tree. Not gonna get into specifics, just remember that a balanced binary tree allows us to insert and search for a node in *O(log n)* time.
 
 We had seen sorting algorithms previously, and the complexity of the ones we studied (insertion and bubble sort) was *O(n²)* in both cases. So, now you have a first year student who thinks he’s on to something. If inserting and retrieving nodes from a balanced binary tree is *O(log n)*, I realized I could construct a binary tree from an array and then sort it in *O(n log n)* by reinserting the elements from the tree.
 
