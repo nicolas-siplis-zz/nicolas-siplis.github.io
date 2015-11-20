@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "'Inventing' treesort"
-subtitle:   "Or how I learned to keep trying and avoid Google"
-date:       2015-12-11
-author:     "Nicolás Siplis"
+subtitle:       "Or how I learned to keep trying and avoid Google"
+date:           2015-12-11
+author:         "Nicolás Siplis"
 ---
 
 Here’s some context for those of you who don’t know me, and since I’m a 19 year old argentine student that probably includes pretty much every single person reading this post. I’m in my first year of computer engineering, loving it so far and can’t wait for the next one.
