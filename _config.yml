@@ -1,3 +1,5 @@
+gems: [jekyll-paginate]
+
 # Site settings
 title: Nicolás Siplis
 email: nicolas.siplis@gmail.com
