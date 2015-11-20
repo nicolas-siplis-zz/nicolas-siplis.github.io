@@ -1,6 +1,6 @@
 # Site settings
 title: Nicolás Siplis
-header-img: img/home-bg.jpg
+# header-img: img/home-bg.jpg
 email: nicolas.siplis@gmail.com
 description: "The boringly exciting adventures of a newbie programmer"
 baseurl: ""
