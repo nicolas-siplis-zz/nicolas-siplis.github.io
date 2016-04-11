@@ -19,6 +19,7 @@ Naturally I wanted to brag about my discovery to someone, so I created a basic i
 As expected, the “new” sorting method was significantly faster than both bubble and insertion sort. I walked up to the professor after class and talked to him about it. He let me ramble on and on about how I came up with it, how it worked and the speed comparisons. Once I was done, the conversation went something like this.
 
  > “So, you implemented treesort.”
+
  > “What?”
  “Yeah, it’s a pretty well known sorting algorithm. Not the fastest but it does have some pretty cool properties.”
  “So someone already thought of all this?”
