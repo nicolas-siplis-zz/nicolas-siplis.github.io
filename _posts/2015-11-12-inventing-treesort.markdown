@@ -18,17 +18,17 @@ Naturally I wanted to brag about my discovery to someone, so I created a basic i
 
 As expected, the “new” sorting method was significantly faster than both bubble and insertion sort. I walked up to the professor after class and talked to him about it. He let me ramble on and on about how I came up with it, how it worked and the speed comparisons. Once I was done, the conversation went something like this.
 
-> So, you implemented treesort.
+> "So, you implemented treesort."
 >
-> What?
+> "What?"
 >
-> Yeah, it’s a pretty well known sorting algorithm. Not the fastest but it does have some pretty cool properties.
+> "Yeah, it’s a pretty well known sorting algorithm. Not the fastest but it does have some pretty cool properties."
 >
-> So someone already thought of all this?
+> "So someone already thought of all this?"
 >
-> Yep.
+> "Yep.
 >
-> … I need to learn how to Google before getting excited.
+> "… I need to learn how to Google before getting excited."
 
 I’m going to take a wild guess and say that 100% of the ideas I’ll think of in the years to come have already been implemented, discussed and improved dozens of times long before I was born. Googling them might be faster, but luckily I’m not a computer so I don’t care about speed. I care about having fun, and coming up with an algorithm on my own (and learning a whole lot in the process) was really, really fun.
 
