@@ -26,7 +26,7 @@ As expected, the “new” sorting method was significantly faster than both bub
 >
 > "So someone already thought of all this?"
 >
-> "Yep.
+> "Yep."
 >
 > "… I need to learn how to Google before getting excited."
 
