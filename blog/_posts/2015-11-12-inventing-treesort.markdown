@@ -32,4 +32,4 @@ As expected, the “new” sorting method was significantly faster than both bub
 
 I’m going to take a wild guess and say that 100% of the ideas I’ll think of in the years to come have already been implemented, discussed and improved dozens of times long before I was born. Googling them might be faster, but luckily I’m not a computer so I don’t care about speed. I care about having fun, and coming up with an algorithm on my own (and learning a whole lot in the process) was really, really fun.
 
-Besides, if people call Columbus the discoverer of America then I sure as hell can call myself the discoverer of Treesort.
+Besides, if people still call Columbus the discoverer of America then I sure as hell can call myself the discoverer of Treesort.
